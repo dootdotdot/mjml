@@ -28,5 +28,8 @@
     "open": "^7.3.0",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "mjml": "^4.7.1"
   }
 }
